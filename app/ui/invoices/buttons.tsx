@@ -22,4 +22,3 @@ export function UpdateInvoice({ id }: { id: string }) {
     </Link>
   );
 }
-
